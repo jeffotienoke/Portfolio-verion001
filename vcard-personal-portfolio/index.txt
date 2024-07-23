@@ -1,0 +1,28 @@
+my portfolio v1.0
+
+My skills
+website design - 65%
+software devlopment -305
+security mesures  - 40%
+#portfolio
+-website design and website making
+   1.Pharmacy website
+   2.Resturant website 
+   3.management system
+-software development
+  1.Customer management system
+  2.Finance Tracker
+  3.ecommerce website
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
